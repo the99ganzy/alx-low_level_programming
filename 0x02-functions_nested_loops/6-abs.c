@@ -1,8 +1,9 @@
 #include "main.h"
 /**
  * _abs - compute the absolute value of an integer
- * @n: int type number
- * Return: absolute value of @n
+ * @r: An integre input
+ * Description: This function returns absolute value of a number
+ * Return: Absolut value of number r
  */
 int _abs(int r)
 {
